@@ -1,0 +1,8 @@
+### Ignore files from MAC
+.DS_Store
+
+### Ignore VSCode settings
+.vscode
+
+### Ignore Built CSS
+.sass-cache
